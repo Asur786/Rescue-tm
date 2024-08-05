@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import app from '../../firebase/firebase';
-import { agenciesRef } from "../../firebase/firebase";
+// import app from '../../firebase/firebase';
+// import { agenciesRef } from "../../firebase/firebase";
 
 
 const Profile = () => {
